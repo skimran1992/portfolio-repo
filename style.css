@@ -1,3 +1,30 @@
 body{
     font-family: 'Mulish', sans-serif;
 }
+h1{
+    font-size: 55px;
+}
+span{
+    color: orangered;
+}
+.organige{
+    text-align: justify;
+}
+section{
+    display: flex;
+}
+.area-half{
+    width: 50%;
+    padding-left: 10px;
+}
+.area-half img{
+    width: 75%;
+}
+.button-shape{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orangered,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
