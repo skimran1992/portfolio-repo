@@ -12,7 +12,7 @@ span{
     text-align: justify;
     padding-right: 150px;
 }
-section{
+.flexible{
     display: flex;
     margin-bottom: 150px;
 }
