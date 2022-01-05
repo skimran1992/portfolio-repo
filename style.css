@@ -3,7 +3,10 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 55px;
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
 }
 span{
     color: orangered;
@@ -45,4 +48,39 @@ span{
 }
 .image-left{
     margin-left: 30px;
+}
+.color{
+    color: orange;
+}
+.experiences{
+    text-align: justify;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 3%;
+    padding-left: 4%;
+    padding-right: 1%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 2%;
+    border-left: 10px solid rgb(252, 117, 68);
+}
+.bg-experienc{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#front-end{
+    border-left: 10px solid;
+    border-image: linear-gradient(salmon,tomato);
+    border-image-slice: 1;
+    
+}
+#hero-learner{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue,rgb(6, 149, 197));
+    border-image-slice: 1;
+    
+}
+footer p{
+    text-align: center;
 }
