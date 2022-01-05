@@ -10,9 +10,11 @@ span{
 }
 .organige{
     text-align: justify;
+    padding-right: 150px;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .area-half{
     width: 50%;
@@ -32,4 +34,15 @@ section{
 .banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.bg-pic{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.margin-left{
+    margin-left: 50px;
+}
+.image-left{
+    margin-left: 30px;
 }
